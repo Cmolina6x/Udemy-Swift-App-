@@ -17,6 +17,68 @@
             endingLineNumber = "13"
             landmarkName = "ViewController"
             landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Udemy_Swift_app.ViewController.TheLabel.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "Udemy Swift app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrismolina/Desktop/Udemy%20Swift%20app/Udemy%20Swift%20app/ViewController.swift"
+                  timestampString = "501996142.371776"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Udemy_Swift_app.ViewController.TheLabel.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "Udemy Swift app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrismolina/Desktop/Udemy%20Swift%20app/Udemy%20Swift%20app/ViewController.swift"
+                  timestampString = "501996142.380538"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Udemy_Swift_app.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Udemy_Swift_app.ViewController"
+                  moduleName = "Udemy Swift app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrismolina/Desktop/Udemy%20Swift%20app/Udemy%20Swift%20app/ViewController.swift"
+                  timestampString = "501996142.3833"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Udemy_Swift_app.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Udemy_Swift_app.ViewController&gt;"
+                  moduleName = "Udemy Swift app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chrismolina/Desktop/Udemy%20Swift%20app/Udemy%20Swift%20app/ViewController.swift"
+                  timestampString = "501996142.385079"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

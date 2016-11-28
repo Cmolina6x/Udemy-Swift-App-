@@ -12,22 +12,22 @@ class ViewController: UIViewController {
 
     @IBOutlet var TheLabel: UILabel!
     
-    var tapCount = 0
+    @IBOutlet var text1: UITextField!
+    
+    @IBOutlet var text2: UITextField!
+    
     
     
     @IBAction func ButtonTapped(_ sender: Any) {
         
-        tapCount = tapCount + 1
+        TheLabel.text = "Answer: \(Double(text1.text!)! + Double(text2.text!)!)"
         
-        if  tapCount >= 10 {
-            TheLabel.text = "you tapped the button 10 times!"
-        }
         
     }
     
     
     @IBAction func TapThatButton(_ sender: Any) {
-      TheLabel.text =  "BUTTONS ARE COOL"
+      TheLabel.text =  "MOLINA GANG"
         print("button #2 tapped")
         
     }
