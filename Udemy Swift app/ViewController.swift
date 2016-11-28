@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
     @IBOutlet var TheLabel: UILabel!
     
     @IBOutlet var text1: UITextField!
@@ -20,14 +20,20 @@ class ViewController: UIViewController {
     
     @IBAction func ButtonTapped(_ sender: Any) {
         
-        TheLabel.text = "Answer: \(Double(text1.text!)! + Double(text2.text!)!)"
+        let addition = true
         
+        if addition {
+            
+            TheLabel.text = "Answer: \(Double(text1.text!)! + Double(text2.text!)!)"
+        } else {
+            TheLabel.text = "Answer: \(Double(text1.text!)! - Double(text2.text!)!)"
+        }
         
     }
     
     
     @IBAction func TapThatButton(_ sender: Any) {
-      TheLabel.text =  "MOLINA GANG"
+        TheLabel.text =  "MOLINA GANG"
         print("button #2 tapped")
         
     }
@@ -39,12 +45,12 @@ class ViewController: UIViewController {
         TheLabel.text =  "CHRIS MOLINA"
         
     }
-
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
-
+    
+    
 }
 
